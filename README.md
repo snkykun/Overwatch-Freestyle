@@ -63,11 +63,11 @@ Run `Minecraft.exe` and log into your account.
 > **NOTE**: This will only work on the latest live patch of overwatch. You will need to re-duplicate `overwatch.exe` and rename it after every patch.
 ### Installing Effect presets
 
-##### If you have purchased my Freestyle presets from [payhip.com/kyy](https://payhip.com/kyy):
+#### If you have purchased my Freestyle presets from [payhip.com/kyy](https://payhip.com/kyy):
 
 Take the contents from the "Kyy's presets" folder and paste them into `C:\Program Files\NVIDIA Corporation\Ansel` (If this folder does not exist, make the folder, then download [these filters](https://international-gfe.download.nvidia.com/GFE/GFEClient/ReShadeFilters/v1.0/Curated_ReShade_Filters.zip) and drag them in before adding my presets)
 
-##### If you have purchased my Inspector presets from [payhip.com/kyy](https://payhip.com/kyy):
+#### If you have purchased my Inspector presets from [payhip.com/kyy](https://payhip.com/kyy):
 Import `FOR MINECRAFT.NIP` into Nvidia Inspector
 
 ![](images/GDBBOh8.png)
