@@ -1,10 +1,17 @@
 # Overwatch-Freestyle
+
 A guide outlining the process of using Nvidia Freestyle in Overwatch
 
 
 ![Image](/images/NDUpoHM.png)
 Disclaimer: use this at your own risk! I am not liable for any bans/suspensions resulting in you using this guide.
+<!-- TOC -->
 
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Credits](#credits)
+
+<!-- /TOC -->
 ## Introduction
 
 Hello and welcome to my guide! **Nvidia Freestyle** is a way for you to personally customize a game’s appearance through the application of real-time post-processing filters. With Freestyle’s options you can be more creative with your games, adding a retro war-themed filter for your favorite FPS, for example, or enhancing color and contrast to make a game look more photorealistic. In this use case we are going to use Freestyle to add depth of field and Ambient occlusion to our game.
