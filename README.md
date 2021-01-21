@@ -1,8 +1,10 @@
 # Overwatch-Freestyle
 A guide outlining the process of using Nvidia Freestyle in Overwatch
 
+
 ![Image](/images/NDUpoHM.png)
 Disclaimer: use this at your own risk! I am not liable for any bans/suspensions resulting in you using this guide.
+
 ## Introduction
 
 Hello and welcome to my guide! **Nvidia Freestyle** is a way for you to personally customize a game’s appearance through the application of real-time post-processing filters. With Freestyle’s options you can be more creative with your games, adding a retro war-themed filter for your favorite FPS, for example, or enhancing color and contrast to make a game look more photorealistic. In this use case we are going to use Freestyle to add depth of field and Ambient occlusion to our game.
@@ -81,6 +83,7 @@ Set your ingame render scale to 100%, 150%, or 200%. also toggle invert depth on
 Set your game to windowed borderless
 ###### My game freezes or freestyle stops working when I use certain effects
 I cannot say for sure why this happens but if all else fails and you are stuck perpetually crashing, go back to `C:\Program Files\NVIDIA Corporation\Ansel` and delete the effect thats causing you problems
+
 
 ## Credits
 [Display Driver Uninstaller by Wagnardsoft](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
