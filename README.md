@@ -36,38 +36,38 @@ Before we begin, it is _**highly recommended**_ you uninstall your current drive
 ## Installation
 
 
-###### Step 1:
+##### Step 1:
 [Download](https://www.guru3d.com/files-details/geforce-451-67-whql-driver-download.html) and install Nvidia driver version 451.67. When prompted by the install screen to install Geforce Experience, **DO NOT** allow it.
 
 
-###### Step 2:
+##### Step 2:
 [Download](https://us.download.nvidia.com/GFE/GFEClient/3.20.5.70/GeForce_Experience_v3.20.5.70.exe) and install Nvidia Geforce Experience version 3.20.5.70
 >**NOTE**: Use [this](https://www.youtube.com/watch?t=115&v=NJyJfNGMgvE) tutorial to block nvidia from updating your Geforce Experiece version.
 
 
-###### Step 3:
+##### Step 3:
 Nvidia has made Freestyle only available to _non-competitive_ titles, so if we were to stop here and run Overwatch, it would **not** work. We are going to bypass this, navigate to `./Overwatch/_retail_`
 
 ![](images/xzBgO5R.png)
 
 
-###### Step 4:
+##### Step 4:
 Rename `Overwatch.exe` to `Minecraft.exe`
 
 ![](images/02jnsE.PNG)
 > **NOTE**:  If you do not see the extension `.exe` already, do not add it.
 
-###### Step 5:
+##### Step 5:
 Run `Minecraft.exe` and log into your account.
 
 > **NOTE**: This will only work on the latest live patch of overwatch. You will need to re-duplicate `overwatch.exe` and rename it after every patch.
 ### Installing Effect presets
 
-###### If you have purchased my Freestyle presets from [payhip.com/kyy](https://payhip.com/kyy):
+##### If you have purchased my Freestyle presets from [payhip.com/kyy](https://payhip.com/kyy):
 
 Take the contents from the "Kyy's presets" folder and paste them into `C:\Program Files\NVIDIA Corporation\Ansel` (If this folder does not exist, make the folder, then download [these filters](https://international-gfe.download.nvidia.com/GFE/GFEClient/ReShadeFilters/v1.0/Curated_ReShade_Filters.zip) and drag them in before adding my presets)
 
-###### If you have purchased my Inspector presets from [payhip.com/kyy](https://payhip.com/kyy):
+##### If you have purchased my Inspector presets from [payhip.com/kyy](https://payhip.com/kyy):
 Import `FOR MINECRAFT.NIP` into Nvidia Inspector
 
 ![](images/GDBBOh8.png)
@@ -77,18 +77,18 @@ Below this will include an FAQ section, but the best solution to most problems i
 
 ### FAQ
 
-###### Freestyle says it cannot get depth input or it requires a compatible game
+##### Freestyle says it cannot get depth input or it requires a compatible game
 Make sure you have renamed the file to Minecraft.exe only! (If hide extensions for known file types is checked, you might be renaming it to minecraft.exe.exe)
 
 ![](images/TUHO54K.png)
 
-###### When I try to add something like dof, it's either not blurry at all or super blurry! (or only the nametags are blurred)
+##### When I try to add something like dof, it's either not blurry at all or super blurry! (or only the nametags are blurred)
 Set your ingame render scale to 100%, 150%, or 200%. also toggle invert depth on and off as well as play with the settings to see if its working.
 
 ![](images/IKC4Jlp.png)
-###### When I try to bring up the freestyle it alt tabs me out of the game and im stuck on my desktop
+##### When I try to bring up the freestyle it alt tabs me out of the game and im stuck on my desktop
 Set your game to windowed borderless
-###### My game freezes or freestyle stops working when I use certain effects
+##### My game freezes or freestyle stops working when I use certain effects
 I cannot say for sure why this happens but if all else fails and you are stuck perpetually crashing, go back to `C:\Program Files\NVIDIA Corporation\Ansel` and delete the effect thats causing you problems
 
 
