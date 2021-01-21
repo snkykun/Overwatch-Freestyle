@@ -73,7 +73,8 @@ Import `FOR MINECRAFT.NIP` into Nvidia Inspector
 ![](images/GDBBOh8.png)
 
 ## Troubleshooting problems
-Below this will include an FAQ section, but the best solution to most problems is to uninstall your driver and GFE with **DDU**, then start the guide over. It is how I personally troubleshoot when a problem arises that I cannot remedy.
+Below this will include an FAQ section, but the best solution to most problems is to uninstall your driver and GFE with [**DDU**](#getting-ready), then start the guide over. It is how I personally troubleshoot when a problem arises that I cannot remedy.
+You may also need to delete the `Ansel` folder prior to re-installing.
 
 ### FAQ
 
