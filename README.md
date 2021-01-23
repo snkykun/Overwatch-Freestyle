@@ -28,7 +28,7 @@ Hello and welcome to my guide! **Nvidia Freestyle** is a way for you to personal
 
 ### Getting Ready
 Before we begin, it is _**highly recommended**_ you uninstall your current drivers and Geforce Experience (if you have it). This can be achieved by using [**Display Driver Uninstaller**](https://youtu.be/xn8z39tiEL0?t=158).
-> **NOTE**: When uninstalling drivers, making sure this box is ticked in the options could help prevent future problems
+> **NOTE**: When uninstalling drivers, checking this option could prevent future problems
 
 ![](images/xxlqie.PNG)
 
