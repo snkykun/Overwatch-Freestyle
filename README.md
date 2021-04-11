@@ -1,4 +1,4 @@
-# Overwatch-Freestyle
+# Overwatch-Freestyle [![Discord](https://img.shields.io/discord/743941628020129853.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/XM93ZdB)
 
 A guide outlining the process of using Nvidia Freestyle in Overwatch
 
