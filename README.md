@@ -42,7 +42,7 @@ Before we begin, it is _**highly recommended**_ you uninstall your current drive
 
 ##### Step 2:
 [Download](https://us.download.nvidia.com/GFE/GFEClient/3.20.5.70/GeForce_Experience_v3.20.5.70.exe) and install Nvidia Geforce Experience version 3.20.5.70
->**NOTE**: Use [this](https://www.youtube.com/watch?t=115&v=NJyJfNGMgvE) tutorial to block nvidia from updating your Geforce Experiece version.
+>**NOTE**: Nvidia will try to update your version of Geforce Experience the next time you open it after installing, to block Geforce Experience from updating, make sure the folder `C:\ProgramData\NVIDIA Corporation\Downloader` is **EMPTY**. Check every time before you open Geforce Experience and delete the contents.
 
 
 ##### Step 3:
