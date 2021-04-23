@@ -38,7 +38,7 @@ Before we begin, it is _**highly recommended**_ you uninstall your current drive
 
 
 ##### Step 1:
-[Download](https://www.guru3d.com/files-details/geforce-451-67-whql-driver-download.html) and install Nvidia driver version 451.67. When prompted by the install screen to install Geforce Experience, **DO NOT** allow it.
+[Download](https://www.guru3d.com/files-details/geforce-461-92-whql-driver-download.html) and install Nvidia driver version 461.92. When prompted by the install screen to install Geforce Experience, **DO NOT** allow it.
 
 
 ##### Step 2:
