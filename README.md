@@ -77,7 +77,7 @@ Create a shortcut from the `minecraft.exe` from which you just copied.
 
 ##### Step 3:
 
-Go into the properties and after the target location in the `target` tab, add your corresponding launch arguments.
+Go into the properties of said shortcut and add your corresponding launch arguments in the `target` tab AFTER the target location (the location of the exe in quotes).
 
 
 |Server |arguments
@@ -88,6 +88,9 @@ Go into the properties and after the target location in the `target` tab, add yo
 |OPR (TournementB)|`--cluster=PROC -uid prometheus_tournament2`
 | Public Test Region  |`--BNetServer=test.actual.battle.net:1119 --cluster=PTR -uid prometheus_test`|
 
+##### Step 4:
+
+Launch from the shortcut
 
 ### Installing Effect presets
 
