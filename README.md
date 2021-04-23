@@ -9,6 +9,7 @@ Disclaimer: use this at your own risk! I am not liable for any bans/suspensions 
 
   - [Introduction](#introduction)
   - [Installation](#installation)
+  - [Launching other versions of Overwatch](#launching-other-versions-of-overwatch)
   - [Credits](#credits)
 
 <!-- /TOC -->
