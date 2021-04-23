@@ -60,7 +60,34 @@ Rename `Overwatch.exe` to `Minecraft.exe`
 ##### Step 5:
 Run `Minecraft.exe` and log into your account.
 
-> **NOTE**: This will only work on the latest live patch of overwatch. You will need to re-duplicate `overwatch.exe` and rename it after every patch.
+> **NOTE**: You will need to re-duplicate `overwatch.exe` and rename it after every patch.
+
+## Launching other versions of Overwatch
+
+If you are wanting to use Freestyle on other versions of Overwatch, like the OWL viewer or if you have access to the professional servers, follow these steps:
+
+##### Step 1:
+
+Go into the location of the **version** you would like to launch, and copy the `Overwatch.exe` and rename it to `minecraft.exe` as you would normally.
+
+##### Step 2:
+
+Create a shortcut from the `minecraft.exe` from which you just copied.
+
+##### Step 3:
+
+Go into the properties and after the target location in the `target` tab, add your corresponding launch arguments.
+
+
+|Server |arguments
+--- | ---
+|OWL viewer (current)|`--tank_tournamentmodetickrate --replayViewerMode --cluster=ProOWLReplays -uid prometheus_tournament_viewer`
+|OWL viewer (previous)   | `--tank_tournamentmodetickrate --replayViewerMode --cluster=ProOWLReplays -uid prometheus_tournament_viewer_2`   |
+|OPR (TournementA)|`--cluster=PROC -uid prometheus_tournament1`
+|OPR (TournementB)|`--cluster=PROC -uid prometheus_tournament2`
+| Public Test Region  |`--BNetServer=test.actual.battle.net:1119 --cluster=PTR -uid prometheus_test`|
+
+
 ### Installing Effect presets
 
 #### If you have purchased my Freestyle presets from [payhip.com/kyy](https://payhip.com/kyy):
@@ -71,6 +98,7 @@ Take the contents from the "Kyy's presets" folder and paste them into `C:\Progra
 Import `FOR MINECRAFT.NIP` into Nvidia Inspector
 
 ![](images/GDBBOh8.png)
+
 
 ## Troubleshooting problems
 Below this will include an FAQ section, but the best solution to most problems is to uninstall your driver and GFE with [**DDU**](#getting-ready), then start the guide over. It is how I personally troubleshoot when a problem arises that I cannot remedy.
