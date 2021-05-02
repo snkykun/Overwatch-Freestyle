@@ -77,7 +77,7 @@ Create a shortcut from the `minecraft.exe` from which you just copied.
 
 ##### Step 3:
 
-Go into the properties of said shortcut and add your corresponding launch arguments in the `target` tab AFTER the target location (the location of the exe in quotes).
+Go into the properties of said shortcut and add your corresponding launch arguments in the `target` tab **AFTER** the target location (**Example**: "C:\Program Files (x86)\Overwatch\_replay_viewer_\minecraft.exe" --tank_tournamentmodetickrate --replayViewerMode --cluster=ProOWLReplays -uid prometheus_tournament_viewer).
 
 
 |Server |arguments
