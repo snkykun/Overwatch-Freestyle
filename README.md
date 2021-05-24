@@ -2,6 +2,7 @@
 
 A guide outlining the process of using Nvidia Freestyle in Overwatch
 
+[Video Tutorial](https://youtu.be/lAEkQdQGRNA)
 
 ![Image](/images/NDUpoHM.png)
 Disclaimer: use this at your own risk! I am not liable for any bans/suspensions resulting in you using this guide.
