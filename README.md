@@ -88,6 +88,7 @@ Go into the properties of said shortcut and add your corresponding launch argume
 |OPR (TournementA)|`--cluster=PROC -uid prometheus_tournament1`
 |OPR (TournementB)|`--cluster=PROC -uid prometheus_tournament2`
 | Public Test Region  |`--BNetServer=test.actual.battle.net:1119 --cluster=PTR -uid prometheus_test`|
+|Overwatch 2 BETA   |`--cluster=ProBeta -uid prometheus_beta`   |
 
 ##### Step 4:
 
