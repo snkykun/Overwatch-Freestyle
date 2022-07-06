@@ -123,8 +123,13 @@ Set your ingame render scale to 100%, 150%, or 200%. also toggle invert depth on
 ![](images/IKC4Jlp.png)
 ##### When I try to bring up the freestyle it alt tabs me out of the game and im stuck on my desktop
 Set your game to windowed borderless
-##### My game freezes or freestyle stops working when I use certain effects
-I cannot say for sure why this happens but if all else fails and you are stuck perpetually crashing, go back to `C:\Program Files\NVIDIA Corporation\Ansel` and delete the effect thats causing you problems
+
+
+![](images/03409134b.png)
+##### My game freezes or freestyle stops working when I use certain effects, or I get an error notification
+If you get this problem clear the files in `C:\Users\%username%\AppData\Local\Temp`
+
+
 
 
 ## Credits
